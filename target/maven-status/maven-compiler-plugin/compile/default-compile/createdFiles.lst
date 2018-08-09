@@ -1,0 +1,6 @@
+com\candidate\entity\Candidate.class
+com\candidateapp\candidateapp\service\CandidateService.class
+com\candidateapp\candidateapp\dto\SearchData.class
+com\candidateapp\candidateapp\controller\CandidateController.class
+com\candidateapp\candidateapp\repo\CandidateRepo.class
+com\candidateapp\candidateapp\CandidateappApplication.class
